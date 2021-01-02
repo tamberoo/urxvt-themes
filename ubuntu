@@ -1,0 +1,64 @@
+!---------------------------------------xdefaults
+! Ubuntu URxvt theme
+! by tamberoo
+! https://github.com/tamberoo
+!
+! based on "something" URxvt theme by AntSunrise
+! https://github.com/AntSunrise
+!
+
+! URxvt font, set to whatever you like.
+!URxvt.font: xft:Ubuntu Mono:pixelsize=12
+urxvt*termName: urxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: false
+!urxvt.boldFont:
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+Xft*rgba: rgb
+URxvt*geometry: 85x20
+!URxvt*internalBorder: <set an internal border>
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+
+! Color section
+
+URxvt*background: #300a24
+URxvt*foreground: #ffffff
+
+! Blacks
+URxvt*color0:	#000000
+URxvt*color8:	#545652
+
+! Reds
+URxvt*color1:	#cc0000
+URxvt*color9:	#ef2828
+
+! Greens
+URxvt*color2:	#4d9906
+URxvt*color10:	#7fe023
+
+! Yellows
+URxvt*color3:	#c4a000
+URxvt*color11:	#fce84e
+
+! Blues
+URxvt*color4:	#3464a3
+URxvt*color12:	#719ece
+
+! Purples
+URxvt*color5:	#744f7a
+URxvt*color13:	#ad7ea7
+	
+! Cyans
+URxvt*color6:	#069699
+URxvt*color14:	#34e2e2
+
+! Grays
+URxvt*color7:	#d1d6cd
+URxvt*color15:	#ededed
